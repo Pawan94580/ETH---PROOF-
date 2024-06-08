@@ -46,8 +46,8 @@ I am using the compiler named as remix.etherum.org in that compiler I used to co
 
 ![image](https://github.com/Pawan94580/ETH---PROOF-/assets/170604813/9d1d824c-dd2c-424a-bb5c-6bca31b1c59a)
 
-After code it. First of all named your file according to your choice and compile it. After compiling it deploy the code. when code deploy completely copy the address and paste it in the fuction and assign the 
-value to the fuctions that you created.
+After code it. First of all named your file according to your choice and compile it. After compiling it deploy the code. when code deploy completely copy the address and paste it in the function and assign the 
+value to the functions that you created.
 You are also able to check the total balance by pasting the address of the code.
 
 **Authors**
