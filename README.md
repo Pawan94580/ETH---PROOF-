@@ -26,7 +26,7 @@ Truffle or Hardhat (development frameworks for Ethereum)
 
 **Clone the repository from GitHub:**
 
-git clone https://github.com/Pawan94580/MyToken.git
+git clone https://github.com/Pawan94580/ETH---PROOF-/tree/main
 
 cd MyToken
 
